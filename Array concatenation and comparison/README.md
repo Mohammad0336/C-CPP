@@ -1,6 +1,6 @@
 # String Concatenation and Comparison
 
-Given two arrays of intgers `a` and `b` of identical length, and an integer k. This program iterates through `a` from left to right and from `b` right to left, looking at pairs `(x, y)` where `x` is from `a` and `y` is from `b`. A pair is denoted tiny if the concatenation `xy` is stricly less than `k`.
+Given two arrays of intgers `a` and `b` of identical length, and an integer k. This program iterates through `a` from left to right and from `b` right to left, looking at pairs `(x, y)` where `x` is from `a` and `y` is from `b`. A pair is denoted tiny if the concatenation `xy` is strickly less than `k`.
 
 This program returns the number of tiny pairs found in the resultant array test.
 
