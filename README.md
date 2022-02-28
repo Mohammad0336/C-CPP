@@ -1,2 +1,2 @@
 # C/C++ Solutions
-Hackerrank solutions to C problems
+Solutions to C/C++ problems 
